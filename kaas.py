@@ -7,3 +7,5 @@ if a > b:
 elif b > a:
     print("a is het kleinste getal")
     min = a
+else:
+    print("a en b zijn even groot")
